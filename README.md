@@ -74,4 +74,10 @@ The Master-DevOps-Automation-App is a cutting-edge application designed to strea
 
 **Conclusion:**
 The Master-DevOps-Automation-App is a comprehensive solution designed to automate and optimize DevOps processes. By integrating leading tools and practices, it empowers teams to build, deploy, and maintain applications with greater efficiency, security, and reliability. Whether you're a startup or an enterprise, this app provides the essential features and flexibility needed to succeed in a fast-paced development environment.
- 
+
+## Author
+
+**Ismail.M**, Software Engineer & DevOps
+
+- GitHub: [@ghostland-dev](https://github.com/ghostland-dev)
+- Website: [ismail-mouyahada.com](https://www.ismail-mouyahada.com)
